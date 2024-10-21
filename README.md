@@ -1,4 +1,5 @@
 # Proyecto-Mecatronica
+Diseño 3D: https://www.youtube.com/watch?v=KV-aRLf79BU
 ## Luego se pone todo bonito
 
 Dia 1: Diseño en 3D (blender) la cabeza del robot
