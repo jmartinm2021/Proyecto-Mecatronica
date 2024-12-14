@@ -60,7 +60,8 @@ Este proyecto se basa en replicar el robot mantequilla de la serie **Rick and Mo
 
 Usa como guía de conexión la siguiente imagen:
 
-FALTA IMAGENNNNNN
+![image](https://github.com/user-attachments/assets/47188820-9566-446d-84a7-8febd7a0488e)
+
 
 
 Usa como guía de montaje la siguiente imagen:
