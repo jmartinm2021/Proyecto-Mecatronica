@@ -42,7 +42,7 @@ Este proyecto se basa en replicar el robot mantequilla de la serie **Rick and Mo
 ## ⚙️ Montaje
 
 1. **Montaje de las ruedas:**
-   - Sigue la siguiente guía para el montaje de las ruedas: !!!!!!!!!!!!!!!!!!
+   - Sigue la [guía](https://www.thingiverse.com/thing:2804287) para el montaje de las ruedas.
    - Una vez estén montadas, conecta las ruedas con la [base](https://github.com/jmartinm2021/Proyecto-Mecatronica/blob/main/3d_model/final_version/base.FCStd) mediante los [soportes](https://github.com/jmartinm2021/Proyecto-Mecatronica/blob/main/3d_model/final_version/soportes.FCStd) y conecta los motores y el controlador a la arduino (el controlador y la arduino deben estar dentro de la base).
 
 2. **Unir Cabeza y Cuerpo:**
