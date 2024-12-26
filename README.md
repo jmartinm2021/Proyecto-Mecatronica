@@ -75,13 +75,30 @@ Usa como guía de montaje la siguiente imagen:
 
 1. **Abrir el proyecto:**
    - Abre el archivo `code/codigo_final.ino` en Arduino IDE.
+     
 2. **Instalar librerías:**
    - Asegúrate de instalar las librería necesaria.
-
+     
 3. **Subir el código:**
    - Conecta el microcontrolador al PC mediante un cable USB.
    - Selecciona el puerto correcto en el IDE y sube el código.
 
+**Codigo control por mando**
+Tambien se puede controlar el movimiento del robot mediante un mando de ps4, para ello hay que seguir los siguientes pasos:
+
+1. **Abrir los archivos de codigo:**
+   - Abre el archivo `code/test/Controller_ESP32.ino` en Arduino IDE.
+   - Abre el archivo `code/test/ButterRobot_Servos.ino` en Arduino IDE.
+     
+2. **Instalar librerías:**
+   - Necesitamos instalar las librerías para los servos y las conexiones bluetooth. Estas se pueden encontrar facilmente en el IDE si buscamos en el manager de librerías lo siguiente, Servo de Michael Margolis, y Bluepad32 de Ricardo Quesada. Una vez tenemos eso, nos falta conectar las placas y cargar los códigos.
+     
+3. **Subir el código:**
+   - Conectar la ESP32 al pc con un cable USB.
+   - Selecciona el puerto correcto en el IDE y cargar el código de la ESP32.
+   - Repetir el proceso con la placa arduino, pero con el código correspondiente.
+
+El codigo de la ESP32 está preparado para recibir ciertos tipos de órdenes del mando, pero si se quiere se puede ampliar esto siguiendo el esquema del codigo e implementando mas funcionalidad.
 ---
 
 ## 📺 Imagen Final
