@@ -98,16 +98,15 @@ Tambien se puede controlar el movimiento del robot mediante un mando de ps4, par
    - Selecciona el puerto correcto en el IDE y cargar el código de la ESP32.
    - Repetir el proceso con la placa arduino, pero con el código correspondiente.
 
-El codigo de la ESP32 está preparado para recibir ciertos tipos de órdenes del mando, pero si se quiere se puede ampliar esto siguiendo el esquema del codigo e implementando mas funcionalidad.
+El código de la ESP32 está preparado para recibir ciertos tipos de órdenes del mando, pero si se quiere se puede ampliar esto siguiendo el esquema del codigo e implementando mas funcionalidad.
+
 ---
 
 ## 📺 Imagen Final
 
 Aquí tienes una referencia del robot ensamblado:
 
-![Final](image.png)
-
-Cambiar foto!!!!!
+![Modelo IRL](https://github.com/user-attachments/assets/b9ee1979-3f79-453f-929a-fef0d0e78ea5)
 
 ---
 
